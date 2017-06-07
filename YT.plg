@@ -7,26 +7,7 @@
 </h3>
 <h3>Command Lines</h3>
 Creating command line "rc.exe /l 0x804 /fo"Debug/YT.res" /d "_DEBUG" /d "_AFXDLL" "F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\YT.rc"" 
-Creating temporary file "C:\Users\Aley\AppData\Local\Temp\RSP2B5.tmp" with contents
-[
-/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/YT.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\BitmapBtn.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\CheckButton.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\Com.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\Pelco_D.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\Pelco_P.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\StageLens.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\YT.cpp"
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\YTDlg.cpp"
-]
-Creating command line "cl.exe @C:\Users\Aley\AppData\Local\Temp\RSP2B5.tmp" 
-Creating temporary file "C:\Users\Aley\AppData\Local\Temp\RSP2B6.tmp" with contents
-[
-/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/YT.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"F:\Visual C++ 6.0\MyProjects\MFC\PTZControl\StdAfx.cpp"
-]
-Creating command line "cl.exe @C:\Users\Aley\AppData\Local\Temp\RSP2B6.tmp" 
-Creating temporary file "C:\Users\Aley\AppData\Local\Temp\RSP2B7.tmp" with contents
+Creating temporary file "C:\Users\Aley\AppData\Local\Temp\RSP4069.tmp" with contents
 [
 /nologo /subsystem:windows /incremental:yes /pdb:"Debug/YT.pdb" /debug /machine:I386 /out:"Debug/YT.exe" /pdbtype:sept 
 ".\Debug\BitmapBtn.obj"
@@ -40,21 +21,9 @@ Creating temporary file "C:\Users\Aley\AppData\Local\Temp\RSP2B7.tmp" with conte
 ".\Debug\YTDlg.obj"
 ".\Debug\YT.res"
 ]
-Creating command line "link.exe @C:\Users\Aley\AppData\Local\Temp\RSP2B7.tmp"
+Creating command line "link.exe @C:\Users\Aley\AppData\Local\Temp\RSP4069.tmp"
 <h3>Output Window</h3>
 Compiling resources...
-Compiling...
-StdAfx.cpp
-Compiling...
-BitmapBtn.cpp
-CheckButton.cpp
-Com.cpp
-Pelco_D.cpp
-Pelco_P.cpp
-StageLens.cpp
-YT.cpp
-YTDlg.cpp
-Generating Code...
 Linking...
 
 
